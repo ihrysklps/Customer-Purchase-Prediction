@@ -11,7 +11,7 @@ https://customer-purchase-prediction-puce.vercel.app
 
 ---
 ## Project Presentation
-[Customer Purchase Prediction Presentation](https://docs.google.com/presentation/d/1_N7V9QvQXTnNHbT6GIMd78hHBd3DBHoI/edit?usp=sharing&ouid=102440024392028040314&rtpof=true&sd=true)
+[Customer Purchase Prediction Presentation](https://docs.google.com/presentation/d/1MHlAmbbLAXT7CH3yOKgrJT4TOTZTQREj/edit?usp=sharing&ouid=102440024392028040314&rtpof=true&sd=true)
 ## Project Report
 [Customer Purchase Prediction Report](https://drive.google.com/file/d/1TZzmYTZTwnnDTmDniO2Mi3H4I6KhtctS/view?usp=sharing)
 
