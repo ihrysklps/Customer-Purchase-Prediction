@@ -10,13 +10,10 @@ A full-stack machine learning application designed to predict whether a customer
 https://customer-purchase-prediction-puce.vercel.app
 
 ---
-## 📊 Project Presentation
-
-A detailed presentation covering the project overview, system architecture, machine learning pipeline, implementation, deployment, business impact, and future scope.
-
-📥 **Download Presentation:**  
-[Customer Purchase Prediction - Presentation](https://github.com/ihrysklps/Customer-Purchase-Prediction/raw/main/docs/Customer-Purchase-Prediction.pptx)
-
+## Project Presentation
+[Customer Purchase Prediction Presentation](https://docs.google.com/presentation/d/1_N7V9QvQXTnNHbT6GIMd78hHBd3DBHoI/edit?usp=sharing&ouid=102440024392028040314&rtpof=true&sd=true)
+## Project Report
+[Customer Purchase Prediction Report](https://drive.google.com/file/d/1TZzmYTZTwnnDTmDniO2Mi3H4I6KhtctS/view?usp=sharing)
 
 ---
 ##  Project Architecture
