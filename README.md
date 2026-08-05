@@ -4,7 +4,15 @@
 A full-stack machine learning application designed to predict whether a customer will make a purchase based on demographic, behavioral, and historical data. The project utilizes a robust **RandomForest** machine learning pipeline hosted on a high-performance **FastAPI** backend, connected to a modern, responsive **React + Vite** frontend.
 
 ---
+## 🌐 Live Demo
 
+**Application:**  
+https://customer-purchase-prediction-puce.vercel.app
+
+**Project Presentation:**  
+https://customer-purchase-predic-643f1ul.gamma.site/
+
+---
 ##  Project Architecture
 
 The system is split into three primary components:
