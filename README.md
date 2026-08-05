@@ -74,8 +74,8 @@ Before beginning, ensure you have the following installed on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/customer-purchase-prediction.git
-cd "customer-purchase-prediction"
+git clone https://github.com/ihrysklps/Customer-Purchase-Prediction.git
+cd "Customer-Purchase-Prediction"
 ```
 
 ### 2. Backend Setup & Model Training
